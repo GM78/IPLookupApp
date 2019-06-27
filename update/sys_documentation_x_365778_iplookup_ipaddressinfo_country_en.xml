@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="country" label="Country" language="en" table="x_365778_iplookup_ipaddressinfo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>country</element>
+            <help/>
+            <hint/>
+            <label>Country</label>
+            <language>en</language>
+            <name>x_365778_iplookup_ipaddressinfo</name>
+            <plural>Countries</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-27 06:49:50</sys_created_on>
+            <sys_id>26b434a9db1637005a247de03c961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Country</sys_name>
+            <sys_package display_value="IPLookup" source="x_365778_iplookup">7a15cc11db9af3005a247de03c961975</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPLookup">7a15cc11db9af3005a247de03c961975</sys_scope>
+            <sys_update_name>sys_documentation_x_365778_iplookup_ipaddressinfo_country_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-27 06:49:50</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
